@@ -1,0 +1,65 @@
+This file contains ideas for warnings and companies that are being researched and their sources.
+Due to the project being dropped, this will be used as a launching point if ever picked up again.
+
+Shady things
+-------------------
+Deforestation
+Plastic pollution
+  - Split things like carbon pollution from plastic pollution?
+Cihld labor
+Prison labor
+Low wages 
+
+Companies
+-----------------
+Amazon
+    - Places for more info
+        https://www.ethicalconsumer.org/company-profile/amazoncom-inc
+        https://en.wikipedia.org/wiki/Criticism_of_Amazon
+
+    - Tax avoidance - paying little to no taxes while pitting US states against each other
+        https://www.theatlantic.com/technology/archive/2018/06/how-amazon-helped-kill-a-seattle-tax-on-business/562736/
+    - Poor wages
+        https://thecounter.org/amazon-snap-employees-five-states/
+        https://money.cnn.com/2013/07/30/news/companies/amazon-warehouse-workers/index.html
+        https://www.economist.com/united-states/2018/01/20/what-amazon-does-to-wages
+        https://ilsr.org/amazon-stranglehold/
+        https://www.pbs.org/newshour/politics/high-court-amazon-doesnt-pay-workers-going-security-lines
+        https://www.theguardian.com/technology/2016/dec/11/amazon-accused-of-intolerable-conditions-at-scottish-warehouse
+    - Working conditions
+        https://www.vice.com/en_uk/article/7xm4dy/ambulances-were-called-to-amazon-warehouses-600-times-in-three-years
+        https://www.nytimes.com/2015/08/16/technology/inside-amazon-wrestling-big-ideas-in-a-bruising-workplace.html?partner=rss&amp;emc=rss&amp;_r=0
+            - rebuttal: https://medium.com/@jaycarney/what-the-new-york-times-didn-t-tell-you-a1128aa78931
+        https://www.businessinsider.com/amazon-warehouse-workers-have-to-pee-into-bottles-2018-4?r=US&IR=T
+        https://www.organise.org.uk/blog/2018/4/13/amazon-the-report
+        https://www.bloomberg.com/news/articles/2016-03-07/amazon-s-story-time-is-kind-of-a-bummer
+        https://www.bloomberg.com/news/articles/2014-12-09/workers-at-amazon-warehouses-wont-be-paid-to-wait-in-security-lines
+        https://gawker.com/inside-an-amazon-warehouse-the-relentless-need-to-mak-1780800336
+        https://www.salon.com/2014/02/23/worse_than_wal_mart_amazons_sick_brutality_and_secret_history_of_ruthlessly_intimidating_workers/
+    - Exploiting temporary workers
+        https://highline.huffingtonpost.com/articles/en/life-and-death-amazon-temp/
+        https://www.motherjones.com/politics/2011/07/ohio-warehouse-temps-unemployment/
+    - Explotion of Chinese workers
+        https://www.theguardian.com/technology/2018/jun/09/amazon-contractor-foxconn-pay-workers-illegally
+    - Terrible Work Culture
+        https://www.nytimes.com/2015/08/16/technology/inside-amazon-wrestling-big-ideas-in-a-bruising-workplace.html?partner=rss&amp;emc=rss&amp;_r=0
+    - Delivery drivers & the gig economy
+        https://gizmodo.com/amazons-last-mile-1820451224
+    - Exploiting buyers and sellers
+        https://www.propublica.org/article/amazon-says-it-puts-customers-first-but-its-pricing-algorithm-doesnt
+        https://www.theguardian.com/commentisfree/2018/oct/04/jeff-bezos-amazon-workers-raise-monopoly
+        https://www.hbs.edu/faculty/Pages/item.aspx?num=54598
+    - Political lobbying
+        https://www.bloomberg.com/graphics/2019-amazon-lobbying/
+    - Crushing unions
+        https://time.com/956/how-amazon-crushed-the-union-movement/
+        https://www.nytimes.com/2016/05/17/technology/amazon-proves-infertile-soil-for-unions-so-far.html
+
+
+    - Other options
+        https://www.ethicalconsumer.org/ethical-campaigns/boycott-amazon/shopping-without-amazon
+        https://www.ethicalconsumer.org/ethicalcampaigns/boycott-amazon
+
+Nike
+Forever 21
+Kylie Cosmetics
